@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./fonts/RobotoMono-Italic-VariableFont_wght.ttf'); 
+}
+
+* {
+  font-family: 'RobotoMono', monospace;
+}
+/* site uiGradients */
+
+body {
+  display: flex;
+  height: 100vh; /* altura inteira da tela */
+  justify-content: center; /* horizontal */
+  align-items: center; /* vertical  */
+  text-align: center; /* h1 faz diferença */
+  color: white;
+  background: linear-gradient(to bottom, #AA076B,#61045F);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

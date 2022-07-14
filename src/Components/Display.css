@@ -1,0 +1,29 @@
+.display {
+
+    grid-column: span 4;
+    background: linear-gradient(90deg, #474749, #6b6748 );
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 15px;
+    font-size: 2.4rem;
+    overflow: hidden;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
